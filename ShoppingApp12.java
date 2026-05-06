@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ShoppingApp10 {
+public class ShoppingApp12 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

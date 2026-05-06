@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SimpleCalculatorSwitch {
+public class SimpleCalculatorSwitch1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char choice;

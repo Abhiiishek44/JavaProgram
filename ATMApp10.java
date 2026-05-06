@@ -1,6 +1,6 @@
  import java.util.Scanner;
 
-public class ATMApp9 {
+public class ATMApp10 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

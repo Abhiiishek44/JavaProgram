@@ -20,7 +20,7 @@ class Dog extends Animal {
 }
 
 // Main class
-public class Abstract8 {
+public class Abstract9 {
     public static void main(String[] args) {
 
         Dog d = new Dog();
